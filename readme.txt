@@ -1,1 +1,2 @@
-BEP-GUI Project
+Clone project
+Run yarn/npm install
