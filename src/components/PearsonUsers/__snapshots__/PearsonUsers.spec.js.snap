@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PearsonUsers Test Suite it should render initial layout 1`] = `
+Array [
+  <div
+    className="pearon-users"
+  >
+    <h1>
+      Pearson User Management
+    </h1>
+    <Loader />
+  </div>,
+]
+`;
